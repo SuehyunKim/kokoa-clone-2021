@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-HTML & CSS are so much fun!
+Kakao Talk Clone Coding by only HTML&CSS
